@@ -4,7 +4,7 @@ main:
     url: /projects/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /blog/
     
   - title: "CV"
     url: https://github.com/chien-wei/chien-wei.github.io/blob/master/files/resume.pdf

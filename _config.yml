@@ -11,7 +11,7 @@ title                    : "Chien-Wei Sun"
 title_separator          : "-"
 name                     : &name "Chien-Wei Sun"
 description              : &description "M.S. of Computer Science in University of Utah"
-url                      : https://chien-wei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chien-wei.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chien-wei/chien-wei.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -238,17 +238,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _projects
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true  
 
 # Sass/SCSS
 sass:
