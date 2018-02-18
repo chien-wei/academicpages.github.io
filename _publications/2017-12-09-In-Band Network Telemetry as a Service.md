@@ -1,13 +1,13 @@
 ---
 title: "In-Band Network Telemetry as a Service"
 collection: publications
-permalink: /publication/hp4_int
+permalink: /projects/hp4_int
 excerpt: 'A research project on adding profiling feature on HyPer4, a portable virtualization tool for P4 language.'
 date: 2017-12-09
 ---
 A research project on adding profiling feature on HyPer4, a portable virtualization tool for P4 language. Code: [Github](https://github.com/cwkenwaysun/hp4_INT)
 
-Parter: [Mazhar Naqvi](https://github.com/mazhar-naqvi)
+Partner: [Mazhar Naqvi](https://github.com/mazhar-naqvi)
 
 ![p4int](https://chien-wei.github.io/files/hp4_int/p4int.png)  
 Current solution for building INT-capable network on P4 programs.  
