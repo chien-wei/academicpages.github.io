@@ -1,7 +1,7 @@
 ---
 title: "Chatroom"
 collection: publications
-permalink: /projects/garage
+permalink: /projects/chatroom
 excerpt: 'A use case examples of Unix IPC: socket, shared memory, and fork.'
 date: 2014-06-01
 ---

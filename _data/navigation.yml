@@ -7,5 +7,5 @@ main:
     url: /blog/
     
   - title: "CV"
-    url: https://github.com/chien-wei/chien-wei.github.io/blob/master/files/resume.pdf
+    url: /cv/
     
