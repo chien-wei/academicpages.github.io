@@ -16,4 +16,5 @@ My duties include:
 * Followed software engineering methodology.  
 
 Mentor: [Shang-Pin Ma](https://www.linkedin.com/in/shang-pin-ma-72a7093b/)  
+
 Partner: Amy Lee, Zhen-Jie Hong  
