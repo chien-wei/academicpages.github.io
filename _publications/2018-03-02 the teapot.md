@@ -17,4 +17,4 @@ Implemented texture mapping, this code support any form of obj files.
 ![env](https://chien-wei.github.io/files/opengl/env.PNG)  
 Implemented environmental mapping and reflection.  
 
-[See my former project of Computer Graphics.](/robot)  
+[See my former project of Computer Graphics.](/projects/robot)  
