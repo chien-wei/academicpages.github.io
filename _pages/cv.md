@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Self-driven, detail-oriented Software Engineering with 1-year experience in 2 governmental projects. Ability to work with teams to deliver products on schedule and pick up new skills efficiently to create high-quality software. Works and study focus on Computer Network, Distributed Systems, Operating Systems, Data Visualization, and Software Engineering.
+Self-driven, detail-oriented Software Engineer with 1-year experience in 2 governmental projects. I can work with teams to deliver products on schedule and pick up new skills efficiently to create high-quality software. Works and study focus on Computer Network, Distributed Systems, Operating Systems, Data Visualization, and Software Engineering.
 
 Education
 ======
