@@ -18,4 +18,4 @@ example, core, that looks like cell edges to normal people. If we can find an a
 
 
 #### Refer to our final report: 
-[https://chien-wei.github.io/files/Final_Project_Report.pdf](https://chien-wei.github.io/files/Final_Project_Report.pdf)
+[https://github.com/chien-wei/chien-wei.github.io/blob/master/files/Final_Project_Report.pdf](https://github.com/chien-wei/chien-wei.github.io/blob/master/files/Final_Project_Report.pdf)
