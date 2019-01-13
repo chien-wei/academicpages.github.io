@@ -33,6 +33,6 @@ The demo web application is under construction... Here is a screenshot for it:
 
 
 ## Reference
-[1] Open Images Dataset.[https://github.com/cvdfoundation/open-images-dataset#download-full-dataset-with-google-storage-transfer](https://github.com/cvdfoundation/open-images-dataset#download-full-dataset-with-google-storage-transfer).
-[2] Gionis, A., Indyk, P., and Motwani, R. Similarity search in high dimensions via hashing. In Proceedings of the 25th International Conference on Very Large Data Bases (San Francisco, CA, USA, 1999), VLDB ’99, Morgan Kaufmann Publishers Inc., pp. 518–529.
+[1] Open Images Dataset.[https://github.com/cvdfoundation/open-images-dataset#download-full-dataset-with-google-storage-transfer](https://github.com/cvdfoundation/open-images-dataset#download-full-dataset-with-google-storage-transfer).  
+[2] Gionis, A., Indyk, P., and Motwani, R. Similarity search in high dimensions via hashing. In Proceedings of the 25th International Conference on Very Large Data Bases (San Francisco, CA, USA, 1999), VLDB ’99, Morgan Kaufmann Publishers Inc., pp. 518–529.  
 [3] Lv, Q., Josephson, W., Wang, Z., Charikar, M., and Li, K. Multi-probe lsh: Efficient indexing for high-dimensional similarity search. In Proceedings of the 33rd International Conference on Very Large Data Bases (2007), VLDB ’07, VLDB Endowment, pp. 950–961
