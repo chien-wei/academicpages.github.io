@@ -9,15 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Self-driven, detail-oriented Software Engineer with 1-year experience in 2 governmental projects. I can work with teams to deliver products on schedule and pick up new skills efficiently to create high-quality software. Works and study focus on Computer Network, Distributed Systems, Operating Systems, Data Visualization, and Software Engineering.
+Self-driven, detail-oriented Software Engineer with 1-year experience in 2 governmental projects. I can work with teams to deliver products on schedule and pick up new skills efficiently to create high-quality software. Works and study focus on Image Processing, Computer Vision, Data Visualization, and Software Engineering.
 
 Education
 ======
-* B.S. in Computer Science at National Taiwan Ocean University, 2015
-* M.S. in Computer Science at University of Utah, 2019 (expected)
+* Computer Science B.S.E at National Taiwan Ocean University, 2015
+* Computer Science M.S. at University of Utah, 2019
 
 Work experience
 ======
+* June 2018 - August 2018: Software Developer, Intern
+  * Vivint Smart Home, Santa Clara, CA
+  * Duties included: 
+    * Replicated regression testing environment in Unix to the office for future expansion.
+    * Developed solutions for tree network topology problem to prevent signal interference.
+    * Provided reports for authentication system procedures.
+
 * August 2016 - July 2017: Research Assistant
   * National Taiwan Ocean University
   * Duties included: 
@@ -30,9 +37,9 @@ Work experience
   
 Skills
 ======
-* C/C++, JAVA, Python
+* C/C++, JAVA, Python, Go, Scala, Matlab
 * Windows, Linux, OSX
-* HTML, CSS, JavaScript, D3.js, PHP, Apache, Django
+* HTML, CSS, JavaScript, D3.js, PHP, Apache, Django, Flask
 * MongoDB, MySQL
 * Android Development, Vim, AWS, Agile Methodology, Consensus Algorithm, OpenGL
 

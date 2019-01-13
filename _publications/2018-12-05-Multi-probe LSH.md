@@ -7,6 +7,7 @@ date: 2018-12-05
 ---
 
 Partner: [Anna Buchman](https://github.com/abuchman14)
+Github: [https://github.com/cwkenwaysun/lsh](https://github.com/cwkenwaysun/lsh)
 
 ## Abstract
 Multi-Probe Locality Sensitive Hashing (LSH) is used to resolve similarity search in high-dimensional data. The basic concept of LSH is to reduce dimensionality while reserving similarity to a certain extent [2]. Previously existing LSH algorithms required heavy amounts of either time or space.  Multi-Probe LSH was able to achieve high accuracy in finding similar objects to a query, while being both time and space efficient. Multi-Probe LSH was first introduced in a paper in 2007--in their experiment, 2GB memory was able to hold a Multi-Probe LSH index for 60 million image data objects [3].
